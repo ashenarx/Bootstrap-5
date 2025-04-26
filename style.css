@@ -89,3 +89,11 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #785A28 !important;
     box-shadow: none !important;
 }
+
+footer {
+    background-color: #1E282D;
+    color: #F0E6D2;
+    padding: 20px 0;
+    text-align: center;
+    border-top: 2px solid #785A28;
+}
