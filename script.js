@@ -1,9 +1,3 @@
-document.getElementById('newsletterForm').addEventListener('submit', function(e) {
-    e.preventDefault();
-    alert('Thanks for subscribing!');
-    this.reset();
-});
-
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
